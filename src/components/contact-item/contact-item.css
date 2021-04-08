@@ -1,0 +1,20 @@
+
+
+.contcat-card-cont{
+    padding: 10px;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.star{
+    font-size: 32px;
+    color: yellowgreen;
+}
+
+.trash{
+    font-size: 32px;
+    color: rgb(126, 46, 46);
+}
